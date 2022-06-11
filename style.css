@@ -1,0 +1,23 @@
+body{
+    font-family: 'Quicksand',Joan;
+}
+.infor-header h1{
+    font-size: 55px;
+    font-weight: 700;
+}
+.infor-header h3{
+    font-size: 28px;
+    font-weight: 600;
+}
+.infor-body p{
+    line-height: 1;
+}
+.infor-social a{
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+    background-color: #444;
+    color: whitesmoke;
+    text-align: center;
+    border-radius: 50%;
+}
